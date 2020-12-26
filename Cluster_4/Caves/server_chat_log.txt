@@ -1,0 +1,3 @@
+[00:00:55]: [Join Announcement] La Sélula
+[00:06:13]: [Join Announcement] Nagito
+[00:12:17]: [Leave Announcement] La Sélula

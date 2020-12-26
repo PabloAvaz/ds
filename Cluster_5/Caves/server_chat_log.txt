@@ -1,0 +1,20 @@
+[00:00:58]: [Join Announcement] La Sélula
+[00:07:47]: [Join Announcement] Nagito
+[00:43:16]: [Skin Announcement] La Sélula feet_walter_formal
+[00:43:38]: [Skin Announcement] Nagito body_silk_eveningrobe_yellow_goldenrod
+[00:44:13]: [Leave Announcement] Nagito
+[00:46:31]: [Join Announcement] Nagito
+[00:52:42]: [Leave Announcement] Nagito
+[00:55:01]: [Join Announcement] Nagito
+[01:33:23]: [Death Announcement] Nagito ha muerto a manos de Picoterror. ¡Se ha convertido en una fantasma aterradora!
+[01:34:05]: [Resurrect Announcement] Nagito ha regresado a la vida gracias a Piedra de resurrección.
+[01:49:45]: [Skin Announcement] La Sélula body_tweedvest_pink_raspberry
+[02:01:57]: [Skin Announcement] Nagito mysterybox_ice_4
+[02:51:41]: [Death Announcement] Nagito ha muerto a manos de Oscuridad. ¡Se ha convertido en una fantasma aterradora!
+[02:52:16]: [Resurrect Announcement] Nagito ha regresado a la vida gracias a La Sélula.
+[02:55:45]: [Skin Announcement] La Sélula mysterybox_ice_4
+[03:22:34]: [Skin Announcement] Nagito legs_waxwell_vampire
+[03:27:58]: [Death Announcement] Nagito ha muerto a manos de Tentáculo. ¡Se ha convertido en una fantasma aterradora!
+[03:29:04]: [Resurrect Announcement] Nagito ha regresado a la vida gracias a La Sélula.
+[03:30:40]: [Death Announcement] Nagito ha muerto a manos de Tentáculo. ¡Se ha convertido en una fantasma aterradora!
+[03:30:50]: [Leave Announcement] La Sélula

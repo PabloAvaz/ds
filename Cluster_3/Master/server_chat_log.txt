@@ -1,0 +1,24 @@
+[00:01:03]: [Join Announcement] La Sélula
+[00:03:30]: [Join Announcement] Tanjiro
+[00:08:52]: [Say] (KU_sJttOSXb) Tanjiro: ole
+[00:21:44]: [Join Announcement] Nagito
+[01:10:35]: [Skin Announcement] Nagito mysterybox_ice_4
+[01:16:25]: [Skin Announcement] Tanjiro mysterybox_ice_4
+[01:16:25]: [Skin Announcement] La Sélula mysterybox_ice_4
+[01:17:51]: [Leave Announcement] Nagito
+[01:20:27]: [Join Announcement] Nagito
+[01:37:07]: [Say] (KU_sJttOSXb) Tanjiro: omw
+[01:37:07]: [Say] (KU_OYtV7iFh) Nagito: Puta
+[01:37:11]: [Say] (KU_sJttOSXb) Tanjiro: te dicen
+[01:37:12]: [Say] (KU_OYtV7iFh) Nagito: omw boyz
+[01:37:20]: [Say] (KU_sJttOSXb) Tanjiro: illo dame er porro
+[01:37:29]: [Say] (KU_sJttOSXb) Tanjiro: miguelitocorchea
+[01:37:36]: [Say] (KU_sJttOSXb) Tanjiro: pabletebarba
+[01:38:24]: [Say] (KU_sJttOSXb) Tanjiro: er refri
+[01:48:10]: [Death Announcement] Nagito ha muerto a manos de Abedul. ¡Se ha convertido en una fantasma aterradora!
+[01:48:31]: [Resurrect Announcement] Nagito ha regresado a la vida gracias a Tanjiro.
+[01:50:00]: [Death Announcement] Nagito ha muerto a manos de Abedul. ¡Se ha convertido en una fantasma aterradora!
+[01:50:15]: [Death Announcement] Tanjiro ha muerto a manos de Abedul. ¡Se ha convertido en una fantasma aterradora!
+[01:50:29]: [Leave Announcement] La Sélula
+[01:50:30]: [Leave Announcement] Tanjiro
+[01:50:30]: [Leave Announcement] Nagito
