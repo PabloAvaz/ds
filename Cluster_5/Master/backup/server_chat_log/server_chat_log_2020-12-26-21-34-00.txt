@@ -1,0 +1,5 @@
+[00:01:13]: [Join Announcement] La Sélula
+[00:06:31]: [Join Announcement] Nagito
+[00:07:01]: [Death Announcement] Nagito ha muerto a manos de Sabueso rojo. ¡Se ha convertido en una fantasma aterradora!
+[00:07:13]: [Leave Announcement] La Sélula
+[00:07:14]: [Leave Announcement] Nagito
